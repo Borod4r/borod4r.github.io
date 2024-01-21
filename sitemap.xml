@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blog.borodar.com/posts/welcome_aboard/</loc>
+<lastmod>2024-01-21T19:07:00+02:00</lastmod>
+</url>
+<url>
+<loc>https://blog.borodar.com/categories/</loc>
+<lastmod>2024-01-21T22:50:12+02:00</lastmod>
+</url>
+<url>
+<loc>https://blog.borodar.com/tags/</loc>
+<lastmod>2024-01-21T22:50:12+02:00</lastmod>
+</url>
+<url>
+<loc>https://blog.borodar.com/archives/</loc>
+<lastmod>2024-01-21T22:50:12+02:00</lastmod>
+</url>
+<url>
+<loc>https://blog.borodar.com/about/</loc>
+<lastmod>2024-01-21T22:50:12+02:00</lastmod>
+</url>
+<url>
+<loc>https://blog.borodar.com/</loc>
+</url>
+<url>
+<loc>https://blog.borodar.com/tags/jekyll/</loc>
+</url>
+<url>
+<loc>https://blog.borodar.com/categories/blogging/</loc>
+</url>
+</urlset>

@@ -1,0 +1,21 @@
+[
+  
+  {
+    "title": "Welcome Aboard!",
+    "url": "/posts/welcome_aboard/",
+    "categories": "Blogging",
+    "tags": "jekyll",
+    "date": "2024-01-21 19:07:00 +0200",
+    
+
+
+
+
+
+    
+    "snippet": "Welcome Aboard!I had an idea to make this blog for a really long time. I wanted to share my experience and knowledge with the community, but I was always too busy with other projects. Now, I finall...",
+    "content": "Welcome Aboard!I had an idea to make this blog for a really long time. I wanted to share my experience and knowledge with the community, but I was always too busy with other projects. Now, I finally found the time to make it happen.Choosing the right tools to share my journey was crucial. I opted for Jekyll for its simplicity, elegance, and the amazing support of the open-source community. It has low entry barrier and it’s easy to customize. I didn’t work with HTML/CSS for a million years, and with Ruby even never, but I was able to setup this blog in a couple of hours.Another important thing about Jekyll is that it’s a static site generator. It means that the content is pre-built and served to the user as-is. There is no database or server-side code involved. And you don’t need to bother with HTML/CSS at all (or, at lest, much of the time). Jekyll uses Markdown to format the content. That means you just write your posts in a simple text editor, and Jekyll will take care how to convert it to HTML pages.And again, it is static. So it’s fast, secure, and easy to host. Cheap too. I’m using GitHub Pages to host this blog, and it’s free.I didn’t want to spend much time on the design, so I chose a ready-made theme. There are a lot of them available, and it took a bit of time to find the one I like. I picked Chirpy, because it’s clean, has great typography, and has a lot of features just working out of the box. There is a nice community around this theme as well and its actively maintained.Another few hours to put everything together, and… voilà! I have a blog. I hope you’ll enjoy it as much as I do!"
+  }
+  
+]
+

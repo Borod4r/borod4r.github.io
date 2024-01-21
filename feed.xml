@@ -1,0 +1,61 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://blog.borodar.com/</id>
+  <title>Borodar's Blog</title>
+  <subtitle>Blog about making games, assets, and other kinds of magic, all day and all night! (mainly using Unity, and pretty much during the night really)</subtitle>
+  <updated>2024-01-21T22:50:12+02:00</updated>
+  <author>
+    <name>Borodar</name>
+    <uri>https://blog.borodar.com/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://blog.borodar.com/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://blog.borodar.com/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Borodar </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Welcome Aboard!</title>
+    <link href="https://blog.borodar.com/posts/welcome_aboard/" rel="alternate" type="text/html" title="Welcome Aboard!" />
+    <published>2024-01-21T19:07:00+02:00</published>
+  
+    <updated>2024-01-21T19:07:00+02:00</updated>
+  
+    <id>https://blog.borodar.com/posts/welcome_aboard/</id>
+    <content src="https://blog.borodar.com/posts/welcome_aboard/" />
+    <author>
+      <name>borodar</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Welcome Aboard!
+
+I had an idea to make this blog for a really long time. I wanted to share my experience and knowledge with the community, but I was always too busy with other projects. Now, I finally found the time to make it happen.
+
+Choosing the right tools to share my journey was crucial. I opted for Jekyll for its simplicity, elegance, and the amazing support of the open-source community. ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+

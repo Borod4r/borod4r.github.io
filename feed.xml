@@ -4,7 +4,7 @@
   <id>https://blog.borodar.com/</id>
   <title>Borodar's Blog</title>
   <subtitle>Blog about making games, assets, and other kinds of magic, all day and all night! (mainly using Unity, and pretty much during the night really)</subtitle>
-  <updated>2024-01-21T23:09:38+02:00</updated>
+  <updated>2024-01-24T17:54:36+02:00</updated>
   <author>
     <name>Borodar</name>
     <uri>https://blog.borodar.com/</uri>
@@ -17,6 +17,42 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Unity and convenience of Git hooks</title>
+    <link href="https://blog.borodar.com/posts/unity_git_hooks/" rel="alternate" type="text/html" title="Unity and convenience of Git hooks" />
+    <published>2024-01-24T17:32:00+02:00</published>
+  
+    <updated>2024-01-24T17:32:00+02:00</updated>
+  
+    <id>https://blog.borodar.com/posts/unity_git_hooks/</id>
+    <content src="https://blog.borodar.com/posts/unity_git_hooks/" />
+    <author>
+      <name>borodar</name>
+    </author>
+
+  
+    
+    <category term="Unity" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Diving into a large project with a horde of developers without a solid workflow is like trying to herd cats. Entertaining but not particularly productive. But even the best workflows are affected by human factors. People make mistakes, forget things, and sometimes just don’t care. That’s why having a plan B is pretty darn handy.
+
+Once upon a time, on a relatively large project, we constantly ha...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -46,11 +82,9 @@
 
 
 
-      Welcome Aboard!
+      I had an idea to make this blog for a really long time. I wanted to share my experience and knowledge with the community, but I was always too busy with other projects. Now, I finally found the time to make it happen.
 
-I had an idea to make this blog for a really long time. I wanted to share my experience and knowledge with the community, but I was always too busy with other projects. Now, I finally found the time to make it happen.
-
-Choosing the right tools to share my journey was crucial. I opted for Jekyll for its simplicity, elegance, and the amazing support of the open-source community. ...
+Choosing the right tools to share my journey was crucial. I opted for Jekyll for its simplicity, elegance, and the amazing support of the open-source community. It has low entry ...
     </summary>
   
 
